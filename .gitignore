@@ -1,5 +1,6 @@
 # files to ignore
 play.py
+src/VAE.py
 
 # Folders to ignore
 Data*/
